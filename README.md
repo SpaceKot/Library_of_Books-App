@@ -12,7 +12,6 @@
 ### 📚 Course Project Overview
 
 Project completed as part of **"JavaScript Advanced - Advanced language concepts and OOP"**
-by Anton Larichev on Stepik
 
 ---
 
