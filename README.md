@@ -1,11 +1,11 @@
 # 🎨 JavaScript Project Portfolio 
 #### 🖼️ Design Mockups
-Figma - https://www.figma.com/design/atHxpoeIWwTwgO7qeIqplQ/BookApp?node-id=0-1&p=f&t=3Mp7AplwlDfDL2iq-0
+[Figma](https://www.figma.com/design/atHxpoeIWwTwgO7qeIqplQ/BookApp?node-id=0-1&p=f&t=3Mp7AplwlDfDL2iq-0)
 
 #### 📜 Certification
-Stepik Certificate - https://stepik.org/cert/2918285?lang=en
+[Stepik_Certificate](https://stepik.org/cert/2918285?lang=en)
 
-Course - https://stepik.org/course/130339/syllabus
+[Course](https://stepik.org/course/130339/info)
 
 ---
 
